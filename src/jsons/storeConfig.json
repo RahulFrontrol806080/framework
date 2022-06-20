@@ -1,0 +1,25 @@
+{
+    "store":[
+         {
+            
+                "selector":"projectlist",
+                "url":"/projectlist",
+                "type":"get"
+            
+         },
+         {
+            
+                "selector":"projectdetail",
+                "url":"/projectdetail",
+                "type":"get"
+            
+         },
+         {
+            
+                "selector":"projectdropdowns",
+                "url":"/dropdown",
+                "type":"get"
+            
+         }
+]
+}
